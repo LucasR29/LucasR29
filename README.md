@@ -18,5 +18,6 @@ Here are some ideas to get you started:
   <a href = "https://github.com/LucasR29">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasR29&show_icons=true&theme=tokyonight" alt="LucasR github stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasR29&layout=compact&theme=tokyonight" />
-    ![Snake animation](https://github.com/LucasR29/LucasR29/blob/output/github-contribution-grid-snake.svg)
+  <a href = "https://github.com/LucasR29">
+  ![Snake animation](https://github.com/LucasR29/LucasR29/blob/output/github-contribution-grid-snake.svg)
 </div>
