@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href = "https://github.com/LucasR29">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasR29&show_icons=true&theme=tokyonight" alt="LucasR github stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasR29&layout=compact&theme=tokyonight" />
-</div>
+
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasR29/LucasR29/output/github-contribution-grid-snake-dark.svg">
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
    ![Snake animation](https://github.com/LucasR29/LucasR29/blob/output/github-contribution-grid-snake.svg)
   
 </picture>
+
+</div>
